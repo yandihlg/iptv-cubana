@@ -9,17 +9,17 @@ https://tvhd.picta.cu/cubavisionhd/cubavisionhd_master.m3u8
 https://tv.picta.cu/cvi/cvi_0.m3u8
 #EXTINF:-1 tvg-id="TeleRebelde.cu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tele_Rebelde_Logo.png/120px-Tele_Rebelde_Logo.png",🇨🇺 Tele Rebelde
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
-#EXTINF:-1 tvg-id="CanalEducativo.cu@SD",🇨🇺 Canal Educativo
+#EXTINF:-1 tvg-id="CanalEducativo.cu@SD" tvg-logo="https://raw.githubusercontent.com/yandihlg/iptv-cubana/main/logos/logo_canal_educativo.png",🇨🇺 Canal Educativo
 https://tv.picta.cu/educativo/educativo_0.m3u8
-#EXTINF:-1 tvg-id="CanalEducativo2.cu@SD",🇨🇺 Canal Educativo 2
+#EXTINF:-1 tvg-id="CanalEducativo2.cu@SD" tvg-logo="https://raw.githubusercontent.com/yandihlg/iptv-cubana/main/logos/logo_canal_educativo.png",🇨🇺 Canal Educativo 2
 https://tv.picta.cu/educativo2/educativo2_0.m3u8
-#EXTINF:-1 tvg-id="CanalClave.cu@SD",🇨🇺 Canal Clave
+#EXTINF:-1 tvg-id="CanalClave.cu@SD" tvg-logo="https://raw.githubusercontent.com/yandihlg/iptv-cubana/main/logos/logo_canal_clave.png",🇨🇺 Canal Clave
 https://tv.picta.cu/clave/clave_0.m3u8
-#EXTINF:-1 tvg-id="Multivision.cu@SD",🇨🇺 Multivisión
+#EXTINF:-1 tvg-id="Multivision.cu@SD" tvg-logo="https://raw.githubusercontent.com/yandihlg/iptv-cubana/main/logos/logo_multivision.png",🇨🇺 Multivisión
 https://tv.picta.cu/multivision/multivision_1.m3u8
-#EXTINF:-1 tvg-id="CanalHabana.cu@SD",🇨🇺 Canal Habana
+#EXTINF:-1 tvg-id="CanalHabana.cu@SD" tvg-logo="https://raw.githubusercontent.com/yandihlg/iptv-cubana/main/logos/logo_canal_habana.png",🇨🇺 Canal Habana
 https://tv.picta.cu/infantil/infantil_0.m3u8
-#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD",🇨🇺 Prensa Latina TV
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD" tvg-logo="https://raw.githubusercontent.com/yandihlg/iptv-cubana/main/logos/logo_prensa_latina_tv.png",🇨🇺 Prensa Latina TV
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD",🇨🇺 Radio y TV Martí
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD" tvg-logo="https://raw.githubusercontent.com/yandihlg/iptv-cubana/main/logos/logo_radio_y_tv_marti.png",🇨🇺 Radio y TV Martí
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
