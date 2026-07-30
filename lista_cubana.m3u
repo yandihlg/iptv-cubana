@@ -1,0 +1,25 @@
+#EXTM3U
+# Lista de TV Cubana - IPTV Lite
+# 11 canales cubanos
+#EXTINF:-1 tvg-id="Cubavision.cu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cubavisio%CC%81n_logo.svg/120px-Cubavisio%CC%81n_logo.svg.png",🇨🇺 Cubavisión
+https://tv.picta.cu/cubavision/cubavision_0.m3u8
+#EXTINF:-1 tvg-id="Cubavision.cu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cubavisio%CC%81n_logo.svg/120px-Cubavisio%CC%81n_logo.svg.png",🇨🇺 Cubavisión HD
+https://tvhd.picta.cu/cubavisionhd/cubavisionhd_master.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cubavisio%CC%81n_logo.svg/120px-Cubavisio%CC%81n_logo.svg.png",🇨🇺 Cubavisión Internacional
+https://tv.picta.cu/cvi/cvi_0.m3u8
+#EXTINF:-1 tvg-id="TeleRebelde.cu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tele_Rebelde_Logo.png/120px-Tele_Rebelde_Logo.png",🇨🇺 Tele Rebelde
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+#EXTINF:-1 tvg-id="CanalEducativo.cu@SD",🇨🇺 Canal Educativo
+https://tv.picta.cu/educativo/educativo_0.m3u8
+#EXTINF:-1 tvg-id="CanalEducativo2.cu@SD",🇨🇺 Canal Educativo 2
+https://tv.picta.cu/educativo2/educativo2_0.m3u8
+#EXTINF:-1 tvg-id="CanalClave.cu@SD",🇨🇺 Canal Clave
+https://tv.picta.cu/clave/clave_0.m3u8
+#EXTINF:-1 tvg-id="Multivision.cu@SD",🇨🇺 Multivisión
+https://tv.picta.cu/multivision/multivision_1.m3u8
+#EXTINF:-1 tvg-id="CanalHabana.cu@SD",🇨🇺 Canal Habana
+https://tv.picta.cu/infantil/infantil_0.m3u8
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD",🇨🇺 Prensa Latina TV
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD",🇨🇺 Radio y TV Martí
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
